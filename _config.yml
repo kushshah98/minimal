@@ -1,6 +1,14 @@
-title: Minimal theme
+title: <p align="center"> Kush Shah </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/kushshah1/">LinkedIn</a> |
+  <a href="https://github.com/kushshah98">GitHub</a>
+  
+  <br>   
+ Dynamic and highly skilled Machine Learning and Artificial Intelligence Engineer with a passion for developing innovative solutions. Possessing a strong background in computer science, mathematics, and data analysis, seeking to leverage expertise in machine learning algorithms and AI technologies to contribute to cutting-edge projects and drive business success.
+   <br>
+  </p>
 theme: jekyll-theme-minimal
